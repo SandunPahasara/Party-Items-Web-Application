@@ -32,23 +32,11 @@ This project was developed as part of our **Enterprise Software Development** mo
 ---
 
 ## 📽️ Project Demo
-🎬 **Watch the demo video:** [Add your video link here – e.g., YouTube or Google Drive link]  
+🎬 **Watch the demo video:** https://www.linkedin.com/posts/sandun-pahasara-weerasinghe-b03462306_enterprisesoftwaredevelopment-groupproject-activity-7391315786826608640-fmLc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAE4FibMBTfhAkQ_Wkmnj0KdXvau46IL63b0  
 
 ---
 
-## 🖼️ Screenshots
 
-| Homepage | Product Page | Admin Dashboard |
-|----------|--------------|-----------------|
-| ![Homepage](assets/homepage.png) | ![Products](assets/products.png) | ![Admin Dashboard](assets/admin.png) |
-
-| Login Page | Cart Page | Checkout |
-|------------|-----------|----------|
-| ![Login](assets/login.png) | ![Cart](assets/cart.png) | ![Checkout](assets/checkout.png) |
-
-> 📸 *(Replace the image paths with your actual screenshot files inside an `/assets` folder.)*
-
----
 
 ## ⚙️ How to Run the Project
 
